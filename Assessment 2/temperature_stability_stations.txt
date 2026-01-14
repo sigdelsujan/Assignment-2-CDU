@@ -1,2 +1,0 @@
-Most Stable: BOULIA-AIRPORTStdDev 0.29°C
-Most Variable: WEIPA-AEROStdDev 0.03°C
